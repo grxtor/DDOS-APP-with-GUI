@@ -1,14 +1,8 @@
-# Download Manager
-
-![Download Manager](https://example.com/download_manager_screenshot.png)
-
-Download Manager, dotnet-install.ps1 ve DDOS APP'in indirilmesini sağlayan basit bir araçtır. İndirme işlemleri sırasında ilerleme çubuğuyla ilerlemeyi görebilirsiniz. 
 
 ## Kullanım
 
-1. **install.bat İndir:** python'ı indirmek için bu düğmeyi kullanın.
-2. **DDOS APP İndir:** DDOS APP'in zip dosyasını indirmek için bu düğmeyi kullanın.
-3. **DDOS APP Aç:** DDOS APP'in zip dosyasını açmak için bu düğmeyi kullanın.
+1. **IP/URL :** DDOS APP IP Veya URL'ye DDOS ATTACK YAPMAYI DESTEKLER
+2. **PROT:** DDOS APP'in Portlara Yönelik Saldırıları için bu düğmeyi kullanın.
 
 ## Ekran Görüntüsü
 
@@ -17,9 +11,8 @@ Download Manager, dotnet-install.ps1 ve DDOS APP'in indirilmesini sağlayan basi
 ## Kurulum
 
 1. Bu depoyu klonlayın veya zip dosyasını indirin.
-2. Python yüklü olduğundan emin olun.
-3. Terminal veya komut istemcisinde `python download_manager.py` komutunu çalıştırın.
-
+2. Python yüklü olduğundan emin olun , Eğer Yüklü Deilse [install.bat](install.bat) dosyasını Yönetici Olarak çalılştırın. 
+3. İnen Zip Dosyasını Ayıklayın Ve DDOS APP.exe Dosyasını Çalıştırın.
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
